@@ -20,7 +20,7 @@
 
 ![image](https://github.com/user-attachments/assets/6d67b82c-6c1e-4ce0-88f4-1d1f69abec24)
 
-Արտադրանքի առաջընթացը գրաֆիկով (Rewards per Episode):
+Ստացված պարգևների առաջընթացը գրաֆիկով (Rewards per Episode):
 
 ![image](https://github.com/user-attachments/assets/7056c45b-09df-4f25-a74c-1a5e082e6b40)
 
